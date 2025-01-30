@@ -1,51 +1,34 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Aprender e inovar para manter se manter jovem e ativo.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar um vídeo a partir de uma foto editada por IA, conferir movimento e adicionar uma fala sobre o valor da aprendizagem para o cérebro.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+FaceApp, Runway, ChatGPT e D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramente utilizei uma foto minha e editei no FaceApp, rejuvelhecendo a imagem.
+No Runway converti em vídeo e conferi movimento para a foto, mas não consegui fazer a imgem falar.
+Era possível adicionar audios no fundo, mas a intenção era fazer a foto falar.
+Gerei um pequeno texto no ChatGPT e no D-ID gravei um áudio na minha própria voz.
+Por fim adicionei o áudio a foto e gerei o vídeo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Consegui gerar um vídeo com minha imagem rejuvelhecida, falando com minha voz um texto sobre como o aprendizado é importante para a plasticidade das nossas células cerebrais.
+O texto também falava sobre se manter atualizado para seguir rumo ao futuro.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Antes de chegar no resultado, tentei várias ferramentas,  que me permitiam criar músicas e colocar audios na foto, mas não faziam a foto falar.
+Outra ferramenta como o Tokkinheads, na versão gratuíta fez a foto falar mas com muitas distorções.
+O melhor resultado obtive com o D-ID.
 
-### Exemplos e Insigths
+![WhatsApp Image 2025-01-29 at 21 00 17](https://github.com/user-attachments/assets/d7b7fa8f-91d1-4e12-b8db-d2306a535301)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+https://github.com/user-attachments/assets/b9eb26b9-1b60-4a8e-8388-eb7b8ab8cb7a
 
-## Links Interessantes
+https://github.com/user-attachments/assets/226f3dd1-1eae-4066-92d3-b997049f21a4
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+/user-attachments/assets/091336e0-9f86-4fa6-890d-9fb65513ac19)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
+
